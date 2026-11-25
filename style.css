@@ -44,3 +44,6 @@ body {
 .section__title {
     margin-bottom: 12px;
 }
+.section__text{
+    color: #111827;
+}
